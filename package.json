@@ -1,6 +1,6 @@
 {
   "name": "tz-clock",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Project moments into IANA timezones — get wall-clock fields, offset, formatted output. Built on Intl, zero dependencies.",
   "keywords": [
     "timezone",
