@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/tz-clock/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/tz-clock/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/tz-clock.svg)](https://www.npmjs.com/package/tz-clock)
+[![downloads](https://img.shields.io/npm/dm/tz-clock.svg)](https://www.npmjs.com/package/tz-clock)
+[![bundle](https://img.shields.io/bundlejs/size/tz-clock)](https://bundlejs.com/?q=tz-clock)
+
 Project moments into IANA timezones — get wall-clock fields, UTC offset, formatted output. Built on the `Intl` APIs already in your runtime. Zero dependencies. No 7MB tzdata bundle, no plugins, no temporal polyfills.
 
 ```ts
