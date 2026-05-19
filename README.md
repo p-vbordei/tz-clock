@@ -1,5 +1,7 @@
 # tz-clock
 
+[![ci](https://github.com/p-vbordei/tz-clock/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/tz-clock/actions/workflows/ci.yml)
+
 Project moments into IANA timezones — get wall-clock fields, UTC offset, formatted output. Built on the `Intl` APIs already in your runtime. Zero dependencies. No 7MB tzdata bundle, no plugins, no temporal polyfills.
 
 ```ts
